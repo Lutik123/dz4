@@ -1,0 +1,10 @@
+
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/inter.css);
+
+@import url(../bloks/color/color.css);
+
+@import url(../bloks/page/page.css);
+
+@import url(../bloks/box/box.css);
+
